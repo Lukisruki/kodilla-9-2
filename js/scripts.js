@@ -4,5 +4,5 @@ var allNames = nameMale.concat(nameFemale);
 
 var newName = 'Marian';
 allNames.splice(0, 0, newName);
-    
+// I'm totally lost :(...
 console.log(allNames);
